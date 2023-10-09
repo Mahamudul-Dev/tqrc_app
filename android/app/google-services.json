@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671759433244",
+    "project_id": "tqrc-app",
+    "storage_bucket": "tqrc-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671759433244:android:454a43c252a6694cfde9d9",
+        "android_client_info": {
+          "package_name": "com.trqc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671759433244-6ai5ukj59kg83nc9v9d1sp13m5fdg350.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9vS7t85JpDeQRwfkgBjswEsI_cMNl5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671759433244-6ai5ukj59kg83nc9v9d1sp13m5fdg350.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
